@@ -154,17 +154,17 @@
         ]
     },
     "mac_canary": {
-        "version": "110.0.5427.0",
-        "size": 220644439,
-        "sha1": "d9298bf8cc1d981e0a008577cad6499126be2272",
-        "sha256": "4cac8e212441fe6691164cbe0becca53a69e8996206abad71eb23fbc67b68f32",
+        "version": "110.0.5430.0",
+        "size": 220341138,
+        "sha1": "123d1d94538bf19d491a4c90ba5612e91ddb89e9",
+        "sha256": "9d2a3d04a1766b5c26f04cdcd20ee545e3d30295abde09ee891eeb87586e511d",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/hzwjylgpsfrimmeuwektvpof3y_110.0.5427.0/GoogleChromeCanary-110.0.5427.0.dmg",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/hzwjylgpsfrimmeuwektvpof3y_110.0.5427.0/GoogleChromeCanary-110.0.5427.0.dmg",
-            "http://dl.google.com/release2/chrome/hzwjylgpsfrimmeuwektvpof3y_110.0.5427.0/GoogleChromeCanary-110.0.5427.0.dmg",
-            "https://dl.google.com/release2/chrome/hzwjylgpsfrimmeuwektvpof3y_110.0.5427.0/GoogleChromeCanary-110.0.5427.0.dmg",
-            "http://www.google.com/dl/release2/chrome/hzwjylgpsfrimmeuwektvpof3y_110.0.5427.0/GoogleChromeCanary-110.0.5427.0.dmg",
-            "https://www.google.com/dl/release2/chrome/hzwjylgpsfrimmeuwektvpof3y_110.0.5427.0/GoogleChromeCanary-110.0.5427.0.dmg"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adxfhfl77e4fodcjiegaklzotr4q_110.0.5430.0/GoogleChromeCanary-110.0.5430.0.dmg",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adxfhfl77e4fodcjiegaklzotr4q_110.0.5430.0/GoogleChromeCanary-110.0.5430.0.dmg",
+            "http://dl.google.com/release2/chrome/adxfhfl77e4fodcjiegaklzotr4q_110.0.5430.0/GoogleChromeCanary-110.0.5430.0.dmg",
+            "https://dl.google.com/release2/chrome/adxfhfl77e4fodcjiegaklzotr4q_110.0.5430.0/GoogleChromeCanary-110.0.5430.0.dmg",
+            "http://www.google.com/dl/release2/chrome/adxfhfl77e4fodcjiegaklzotr4q_110.0.5430.0/GoogleChromeCanary-110.0.5430.0.dmg",
+            "https://www.google.com/dl/release2/chrome/adxfhfl77e4fodcjiegaklzotr4q_110.0.5430.0/GoogleChromeCanary-110.0.5430.0.dmg"
         ]
     }
 }

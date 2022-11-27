@@ -1,12 +1,12 @@
 # Automatic Generated Time
-2022-11-26 20:21:44.858513+00:00
+2022-11-27 20:21:36.640963+00:00
 
 ## win stable x86
-**version**:107.0.5304.107  
-**size**:84.69 MB  
-**sha1**:f4decedfc20d33405edada773290f1dc7ecf812d  
-**sha256**:7fa27f52270591dd98462e1efa312960bb8b80e34b69bb60370c356169a92c07  
-**download**:[https://dl.google.com/release2/chrome/ac7x5h6gvsbcoucd7ccicvuy5nca_107.0.5304.107/107.0.5304.107_chrome_installer.exe](https://dl.google.com/release2/chrome/ac7x5h6gvsbcoucd7ccicvuy5nca_107.0.5304.107/107.0.5304.107_chrome_installer.exe)  
+**version**:107.0.5304.121  
+**size**:84.7 MB  
+**sha1**:146fec44277fc1e02494fd066d6b6f1dd647d3b3  
+**sha256**:32ee702f605f3ed4e8a059d81294179d815bd6f9581269e068491110e70ff010  
+**download**:[https://dl.google.com/release2/chrome/ow5kgxtb34xbqwx5fwlscz25nm_107.0.5304.121/107.0.5304.121_chrome_installer.exe](https://dl.google.com/release2/chrome/ow5kgxtb34xbqwx5fwlscz25nm_107.0.5304.121/107.0.5304.121_chrome_installer.exe)  
 
 ## win stable x64
 **version**:107.0.5304.107  
@@ -79,9 +79,9 @@
 **download**:[https://dl.google.com/release2/chrome/acbk5ode57esx5bsum7uav6d2nbq_107.0.5304.121/GoogleChrome-107.0.5304.121.dmg](https://dl.google.com/release2/chrome/acbk5ode57esx5bsum7uav6d2nbq_107.0.5304.121/GoogleChrome-107.0.5304.121.dmg)  
 
 ## mac canary
-**version**:110.0.5441.0  
-**size**:208.11 MB  
-**sha1**:33856e50dd2f6bb280255c5fd0253db6122c5fa6  
-**sha256**:848f8e2bcbf46a51a7bebb08679c9d34cee9a0fefaec0e0751b1c449f7cae560  
-**download**:[https://dl.google.com/release2/chrome/adk5uq6ttqbm75be6uybzpm2ikca_110.0.5441.0/GoogleChromeCanary-110.0.5441.0.dmg](https://dl.google.com/release2/chrome/adk5uq6ttqbm75be6uybzpm2ikca_110.0.5441.0/GoogleChromeCanary-110.0.5441.0.dmg)  
+**version**:110.0.5443.0  
+**size**:207.75 MB  
+**sha1**:6d6653db8597a7789ee73e6a9afba9bc108e2fc1  
+**sha256**:95aea0ec39963e06b09aeb638bf86de8a7a8f16c9af7900591f041c177e7adc9  
+**download**:[https://dl.google.com/release2/chrome/e6hxziay5qfqpkm77q32ybfqgu_110.0.5443.0/GoogleChromeCanary-110.0.5443.0.dmg](https://dl.google.com/release2/chrome/e6hxziay5qfqpkm77q32ybfqgu_110.0.5443.0/GoogleChromeCanary-110.0.5443.0.dmg)  
 
